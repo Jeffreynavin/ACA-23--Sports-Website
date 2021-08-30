@@ -1,0 +1,46 @@
+body {
+  background-image: url("ms-dhoni-afp_806x605_71496934760.webp");
+  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
+  
+}
+ #navbar ul {
+
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(248, 44, 44);
+  font-size: 0.875em;
+  text-decoration: none;
+  padding: 1em;
+  white-space: nowrap;
+  letter-spacing: 1px;
+}
+
+#navbar ul li a:hover {
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+#bio {
+  background: linear-gradient(to bottom, #000428 0%, #004e92 100%);
+  
+}
+#bio h1 , p {
+  color: white;
+}
+.achievments ul li {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(248, 44, 44);
+  font-size: 0.875em;
+  text-decoration: none;
+  padding: 1em;
+  white-space: nowrap;
+  letter-spacing: 1px;}
